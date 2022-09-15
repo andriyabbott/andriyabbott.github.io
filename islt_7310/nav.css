@@ -21,7 +21,6 @@ ul li {
 }
   li a:hover, .dropdown:hover .dropbtn {
     background-color: whitesmoke;
-    width: 150px;
 }
 
   .dropdown-content a {
