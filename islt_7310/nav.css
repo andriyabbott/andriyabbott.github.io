@@ -20,7 +20,8 @@ ul li {
     display: block;
 }
   li a:hover, .dropdown:hover .dropbtn {
-    background-color: blue;
+    background-color: whitesmoke;
+    width: 150px;
 }
 
   .dropdown-content a {
