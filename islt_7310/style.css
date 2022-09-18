@@ -3,8 +3,8 @@ h1 {color: #ad550e}
     color: #ad550e;
     font-size: 200%;
   }
-p .spar .tpar .lpar::first-line{
-    text-indent: 20%;
+.reflection{
+    text-indent: 50px;
 }
 footer{
     text-align: center;
