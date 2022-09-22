@@ -11,7 +11,25 @@ footer{
     align-content: center;
 }
 .fpar .spar .tpar .lpar{
-background-color: whitesmoke;
+background-color: #A27B5C;
 padding: 50px;
 margin: 20px;
+}
+
+.centered footer{
+    display: flex;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+
+.left{
+    display: flex;
+    text-align: left;
+    align-content: flex-start;
+    align-self: flex-start;
+}
+img {
+    width: 20%;
+    height: 20%;
 }

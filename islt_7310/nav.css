@@ -1,3 +1,4 @@
+
 ul li {
     display: inline-block;
     border: 3px solid #2C3639;
@@ -8,12 +9,13 @@ ul li {
     margin-left: 5px;
     background-color: #A27B5C;
     align-content: center;
+    
 }
 .dropdown-content {
     display: none;
     position: absolute;
     background-color: whitesmoke;
-    min-width: 160px;
+    min-width: auto;
     z-index: 1;
 }
   .dropdown:hover .dropdown-content {
