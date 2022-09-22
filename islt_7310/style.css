@@ -14,7 +14,7 @@ margin: 20px;
 }
 
 footer, .centered{
-    display: inline-block;
+    display: block;
     text-align: center;
     align-content: center;
     align-items: center;
@@ -36,7 +36,8 @@ footer, .centered{
     margin-right:auto;
 }
 .image{
-    scale: 25%;
+    width: 70px;
+    height: 70px;
     text-align: center;
     margin-left: auto;
     margin-right:auto;
