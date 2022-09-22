@@ -6,32 +6,24 @@ h1 {color: #ad550e}
 .reflection{
     text-indent: 50px;
 }
-footer{
-    text-align: center;
-    align-content: center;
-    display: flex;
-    flex-wrap: wrap;
-    width: auto;
-    height:auto;
-}
-.fpar .spar .tpar .lpar{
+
+.fpar, .spar, .tpar, .lpar{
 background-color: #A27B5C;
 padding: 50px;
 margin: 20px;
 }
 
-.centered footer{
-    display: flex;
+footer, .centered{
+    display: inline-block;
     text-align: center;
     align-content: center;
     align-items: center;
-    flex-wrap: wrap;
     width: auto;
     height:auto;
     margin-left: auto;
     margin-right: auto;
-}
 
+}
 .left{
     display: flex;
     text-align: left;
@@ -44,9 +36,9 @@ margin: 20px;
     margin-right:auto;
 }
 .image{
-    width: 100px;
-    height: 100px;
+    scale: 25%;
     text-align: center;
     margin-left: auto;
     margin-right:auto;
+    display:block;
 }
