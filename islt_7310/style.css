@@ -9,6 +9,10 @@ h1 {color: #ad550e}
 footer{
     text-align: center;
     align-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    width: auto;
+    height:auto;
 }
 .fpar .spar .tpar .lpar{
 background-color: #A27B5C;
@@ -21,6 +25,9 @@ margin: 20px;
     text-align: center;
     align-content: center;
     align-items: center;
+    flex-wrap: wrap;
+    width: auto;
+    height:auto;
 }
 
 .left{
@@ -28,8 +35,11 @@ margin: 20px;
     text-align: left;
     align-content: flex-start;
     align-self: flex-start;
+    flex-wrap: wrap;
+    width: auto;
+    height:auto;
 }
-img {
-    width: 20%;
-    height: 20%;
+.image{
+    width: 30px;
+    height: 30px;
 }
