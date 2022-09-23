@@ -1,4 +1,6 @@
-h1 {color: #ad550e}
+h1 {
+    color: #ad550e
+}
 .fpar::first-letter {
     color: #ad550e;
     font-size: 200%;
@@ -36,8 +38,8 @@ footer, .centered{
     margin-right:auto;
 }
 .image{
-    width: 70px;
-    height: 70px;
+    width: 200px;
+    height: 200px;
     text-align: center;
     margin-left: auto;
     margin-right:auto;

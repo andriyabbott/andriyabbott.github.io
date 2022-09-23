@@ -1,9 +1,8 @@
 
-ul li {
+ul, li {
     display: block;
     border: 3px solid #2C3639;
-    width: 150px;
-    list-style-type: none;
+    width: auto;
     padding: 10px 10px 10px 20px;
     margin-top: 5;
     margin-left: 5px;
@@ -18,14 +17,14 @@ ul li {
     min-width: auto;
     z-index: 1;
 }
-  .dropdown:hover, .dropdown-content {
+  .dropdown:hover .dropdown-content {
     display: block;
 }
-  li a:hover, .dropdown:hover, .dropbtn {
+  li a:hover .dropdown:hover .dropbtn {
     background-color: whitesmoke;
 }
 
-  .dropdown-content, a {
+  .dropdown-content a{
     color: black;
     padding: 10px 10px 10px 10px;
     text-decoration: none;
@@ -33,7 +32,7 @@ ul li {
     text-align: center;
 }
   
-  .dropdown-content, a:hover {
+  .dropdown-content a:hover {
     background-color: #A27B5C;
 }
   
