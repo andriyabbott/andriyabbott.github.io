@@ -1,6 +1,6 @@
 
 ul, li {
-    display: block;
+    display: inline-block;
     border: 3px solid #2C3639;
     width: auto;
     padding: 10px 10px 10px 20px;
