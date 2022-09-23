@@ -45,3 +45,9 @@ footer, .centered{
     margin-right:auto;
     display:block;
 }
+
+@media (max-width: 600px){
+p {
+    font-size: 1.25rem;
+}
+}
