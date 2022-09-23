@@ -1,16 +1,14 @@
-
-ul, li {
-    display: inline-block;
-    border: 3px solid #2C3639;
-    width: 200px;
-    padding: 10px 10px 10px 20px;
-    margin-top: 5px;
-    margin-left: 5px;
-    margin-right: 5px;
-
-    background-color: #A27B5C;
-    align-content: center;
-    
+ul li {
+  display: inline-block;
+  border: 3px solid #2C3639;
+  width: 150px;
+  list-style-type: none;
+  padding: 10px 10px 10px 20px;
+  margin-top: 5;
+  margin-left: 5px;
+  background-color: #A27B5C;
+  align-content: center;
+  
 }
 .dropdown-content {
     display: none;
