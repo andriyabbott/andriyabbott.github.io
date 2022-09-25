@@ -56,6 +56,17 @@ body {
 .image{
     scale: 50%;
 }
+nav, ul li {
+    display: inline-block;
+    border: 3px solid #2C3639;
+    width: 200px;
+    list-style-type: none;
+    padding: 10px 10px 10px 20px;
+    margin-top: 5;
+    margin-left: auto;
+    background-color: #A27B5C;
+    align-content: center;
+  }
 }
 
 
