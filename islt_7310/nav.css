@@ -1,7 +1,8 @@
 nav, ul li {
   display: inline-block;
   border: 3px solid #2C3639;
-  width: 200px;
+  width: auto;
+  column-width: auto;
   list-style-type: none;
   padding: 10px 10px 10px 20px;
   margin-top: 5;
