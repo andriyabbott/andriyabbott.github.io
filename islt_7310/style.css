@@ -16,7 +16,7 @@ margin: 20px;
 }
 
 footer, .centered{
-    display: flex;
+    display: block;
     text-align: center;
     align-content: center;
     align-items: center;
@@ -52,13 +52,6 @@ body {
 }
 .image{
     scale: 50%;
-}
-nav{max-height: none;
-    top: 0;
-    position: relative;
-    float: right;
-    width: fit-content;
-    background-color: transparent;
 }
 }
 
