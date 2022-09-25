@@ -16,7 +16,7 @@ margin: 20px;
 }
 
 footer, .centered{
-    display: block;
+    display: flex;
     text-align: center;
     align-content: center;
     align-items: center;
@@ -47,7 +47,19 @@ footer, .centered{
 }
 
 @media (max-width: 600px){
-p {
+body {
     font-size: 1.25rem;
 }
+.image{
+    scale: 50%;
 }
+nav{max-height: none;
+    top: 0;
+    position: relative;
+    float: right;
+    width: fit-content;
+    background-color: transparent;
+}
+}
+
+
