@@ -60,6 +60,7 @@ body {
 .image{
     scale: 80%;
 }
+/*
 lable{
     display: block;
     cursor: pointer;
@@ -77,6 +78,7 @@ lable{
 #toggle:checked + .menu{
     display: block;
 }
+*/
 }
 
 

@@ -1,4 +1,4 @@
-/*nav, ul li {
+nav, ul li {
   display: inline-block;
   width: auto;
   column-width: auto;
@@ -9,7 +9,7 @@
   align-content: center;
   
 }
-*/
+
 .dropdown-content {
     display: none;
     position: absolute;
@@ -36,13 +36,13 @@
     background-color: #A27B5C;
 }
 
-.navigation{
+/*.navigation{
   border-bottom: 1px solid #3F4E4F;
   text-align: center;
   height: 100px;
   line-height: 100px;
-}
-.menu a{
+}*/
+/*.menu a{
   text-decoration: none;
   color: #3F4E4F;
   line-height: 100px;
@@ -51,6 +51,7 @@
 span{
   color: #A27B5C;
 }
+*/
 label{
   margin: 0 40px 0 0;
   font-size: 30px;
