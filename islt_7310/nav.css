@@ -1,4 +1,4 @@
-nav, ul li {
+/*nav, ul li {
   display: inline-block;
   width: auto;
   column-width: auto;
@@ -9,7 +9,7 @@ nav, ul li {
   align-content: center;
   
 }
-
+*/
 .dropdown-content {
     display: none;
     position: absolute;
