@@ -96,12 +96,17 @@ lable{
     }
     @page{
         margin: 1in;
+        border: none;
     }
     h1{
         font-family: 'CaviarDreams';
     }
     nav, a{
         display: none;
+    }
+    main{
+        border:0;
+        text-align: center;
     }
 
 }
