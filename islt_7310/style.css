@@ -108,6 +108,13 @@ lable{
         border:0;
         text-align: center;
     }
+    p, footer{
+        page-break-after: avoid;
+    }
+    p{
+        widows:3;
+        orphans: 3;
+    }
 
 }
 
