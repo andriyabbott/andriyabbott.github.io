@@ -97,7 +97,7 @@ lable{
     h1{
         font-family: 'CaviarDreams';
     }
-    h1, p, li, blockquote, footer{
+    h1, p, blockquote, footer{
         display: block;
     }
 
