@@ -9,7 +9,9 @@ html, body{
 }
 body{
     background-image: linear-gradient(#2C3639, #3F4E4F, #A27B5C, #DCD7C9);
+    background-repeat: no-repeat;
 }
+
 h1 {
     color: #ad550e;
     font-family: 'CaviarDreams';
