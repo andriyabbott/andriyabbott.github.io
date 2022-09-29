@@ -30,7 +30,7 @@ padding: 50px;
 margin: 20px;
 }
 
-footer, .centered{
+.centered{
     display: block;
     text-align: center;
     align-content: center;
@@ -42,6 +42,14 @@ footer, .centered{
 }
 footer{
     background-image: url("fall.jpeg");
+    display: block;
+    text-align: left;
+    align-content: left;
+    align-items: left;
+    width: auto;
+    height:auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 .left{
     display: flex;
