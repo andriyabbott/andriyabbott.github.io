@@ -74,19 +74,20 @@ footer{
     display:block;
 }
 .icons{
-    width:15;
-    height:15;
+    width:15px;
+    height:15px;
 }
-.bigicons{
-    position: absolute;
-    width: 0px;
-    -webkit-transition:width 0.3s linear 0s;
-    transition:width 0.3s linear 0s;
-    z-index: 10;
 
+@keyframes zoomIn {
+    from {width: 15px; height: 15px;}
+    to {width: 25px; height: 25px;}
 }
-.icons:hover +.bigicons{
-    width: 75;
+footer:hover .icons{
+    width: 25px;
+    height: 25px;
+    animation-name: zoomIn;
+    animation-duration: 0.3s;
+    animation-fill-mode: forwards;
 }
 
 @media only screen and (max-width: 500px){
