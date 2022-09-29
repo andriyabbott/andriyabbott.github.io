@@ -77,6 +77,11 @@ footer{
     width:15px;
     height:15px;
 }
+.VideoResume{
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
 
 @keyframes zoomIn {
     from {width: 15px; height: 15px;}
