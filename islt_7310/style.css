@@ -48,7 +48,8 @@ footer{
     align-items: left;
     width: auto;
     height:auto;
-    margin: 5;
+    margin-left: 5;
+    padding: 5;
 }
 .left{
     display: flex;
