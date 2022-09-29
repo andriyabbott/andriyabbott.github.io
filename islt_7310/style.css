@@ -42,8 +42,9 @@ margin: 20px;
 }
 footer{
     background-image: url("fall.jpeg");
-    background-position: right;
+    background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
     display: block;
     text-align: left;
     align-content: left;
