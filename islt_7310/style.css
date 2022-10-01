@@ -90,6 +90,14 @@ footer{
     margin-right:auto;
     display:block;
 }
+.projectImage{
+    width: auto;
+    height: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right:auto;
+    display:block;
+}
 .icons{
     width:15px;
     height:15px;
