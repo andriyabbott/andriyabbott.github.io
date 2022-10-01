@@ -64,12 +64,10 @@ footer{
     background-repeat: no-repeat;
     display: block;
     text-align: left;
-    align-content: left;
-    align-items: left;
     width: auto;
     height:auto;
-    margin-left: 5;
-    padding: 5;
+    margin-left: 5px;
+    padding: 5px;
 }
 .left{
     display: flex;
