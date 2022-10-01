@@ -1,3 +1,11 @@
+* {    
+    margin: 0;
+    padding: 0;
+  }
+  a {
+    color: blue;
+    text-decoration: none; 
+  }
 @font-face { 
     font-family: 'CaviarDreams'; 
     src: url("CaviarDreams.ttf"); 
@@ -29,6 +37,12 @@ background-color: #A27B5C;
 padding: 50px;
 margin: 20px;
 }
+.projectData{
+text-indent: 50px;
+background-color: #A27B5C;
+padding: 50px;
+margin: 20px;
+}
 
 .centered{
     display: block;
@@ -39,6 +53,9 @@ margin: 20px;
     height:auto;
     margin-left: auto;
     margin-right: auto;
+}
+.subcentered{
+    text-align: center;
 }
 footer{
     background-image: url("fall.jpeg");
