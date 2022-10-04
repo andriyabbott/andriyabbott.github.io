@@ -43,7 +43,24 @@ background-color: #A27B5C;
 padding: 50px;
 margin: 20px;
 }
+tr:nth-child(odd) {
+    background-color: #A27B5C;
+  }
+table{
+    border: 1px solid black;
+    text-align: center;
+}
+@media only screen and (max-width: 1200px){
+    tr{
+        font-size: 20px;
 
+    }
+    table{
+        width: 50%;
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+}
 .centered{
     display: block;
     text-align: center;
