@@ -40,9 +40,20 @@ margin: 20px;
 .contactPage{
     text-align: center;
     margin: auto;
-    padding: 50px;
+    padding: 15px;
     background-color: #A27B5C;
     margin: 20px;;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+#message{
+    height: 150px;
+    width: 30px;
+}
+input{
+    width:200px;
+
 }
 .projectData{
 text-indent: 50px;
