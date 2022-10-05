@@ -47,11 +47,11 @@ margin: 20px;
     align-items: center;
 }
 form{
-    background-color: #A27B5C;
+    border-color: black 2px;
 }
 #message{
     height: 150px;
-    width: 30px;
+    width: 200px;
 }
 input{
     width:200px;
