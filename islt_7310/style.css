@@ -37,6 +37,11 @@ background-color: #A27B5C;
 padding: 50px;
 margin: 20px;
 }
+.contactPage{
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
 .projectData{
 text-indent: 50px;
 background-color: #A27B5C;
