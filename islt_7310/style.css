@@ -3,9 +3,9 @@
     padding: 0;
   }
   a {
-    color: orangered;
+    color: slategray;
     text-decoration: solid;
-    font-size: 12px;;
+    font-size: 30px;;
   }
 @font-face { 
     font-family: 'CaviarDreams'; 
